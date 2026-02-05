@@ -1,0 +1,10 @@
+bomb
+blast
+attack
+gun
+explosive
+kill
+weapon
+grenade
+shoot
+fire

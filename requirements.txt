@@ -1,0 +1,9 @@
+streamlit
+faster-whisper
+spacy
+pydub
+python-dotenv
+python-dateutil
+transformers
+sentencepiece
+torch
