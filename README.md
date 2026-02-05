@@ -209,7 +209,7 @@ streamlit run app.py
 
 ---
 
-## ⚠ Disclaimer
+## Disclaimer
 
 This tool provides **automated risk estimation** to assist human analysts.  
 It does **not** make legal determinations or replace professional investigation.
