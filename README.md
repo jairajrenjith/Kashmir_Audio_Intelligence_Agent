@@ -166,18 +166,6 @@ Built with Streamlit for offline desktop usage:
 
 The system operates autonomously once files are uploaded.
 
----
-
-## Sample Output
-
-The system produces structured intelligence reports and batch risk summaries for analyst review.
-
-<p align="center">
-  <img src="sample_output_images/img1.png" width="48%" />
-  <img src="sample_output_images/img2.png" width="48%" />
-</p>
-
-
 
 ---
 
@@ -254,6 +242,19 @@ Streamlit will provide a local URL (typically `http://localhost:8501`) in the te
 - Fully offline after caching
 - CPU-optimized (int8 mode)
 - Designed for low-connectivity environments
+
+
+---
+
+## Sample Output
+
+The system produces structured intelligence reports and batch risk summaries for analyst review.
+
+<p align="center">
+  <img src="sample_output_images/img1.png" width="48%" />
+  <img src="sample_output_images/img2.png" width="48%" />
+</p>
+
 
 ---
 
