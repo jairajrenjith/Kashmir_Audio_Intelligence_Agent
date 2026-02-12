@@ -80,7 +80,7 @@ Structured Intelligence Report
 ## Project Structure
 
 ```
-KASHMIR_AUDIO_AGENT/
+Kashmir-Audio-Intelligence-Agent/
 │
 ├── app.py                        # Streamlit UI entry point
 ├── requirements.txt              # Project dependencies
