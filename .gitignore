@@ -1,0 +1,81 @@
+# ===============================
+# Python
+# ===============================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ===============================
+# Virtual Environment
+# ===============================
+
+venv/
+env/
+ENV/
+
+# ===============================
+# Streamlit
+# ===============================
+
+.streamlit/
+
+# ===============================
+# HuggingFace Cache
+# ===============================
+
+hf_cache/
+cache/
+*.bin
+*.pt
+*.ckpt
+
+# ===============================
+# Temporary Files
+# ===============================
+
+temp/
+temp.wav
+*.log
+
+# ===============================
+# OS Files
+# ===============================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# ===============================
+# IDE / Editor
+# ===============================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===============================
+# Jupyter (if used)
+# ===============================
+
+.ipynb_checkpoints/
+
+# ===============================
+# Environment Variables
+# ===============================
+
+.env
+.env.*
